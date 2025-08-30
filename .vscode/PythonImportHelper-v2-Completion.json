@@ -1,0 +1,394 @@
+[
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "CUISINES",
+        "importPath": "data.constants",
+        "description": "data.constants",
+        "isExtraImport": true,
+        "detail": "data.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DIETARY_TAGS",
+        "importPath": "data.constants",
+        "description": "data.constants",
+        "isExtraImport": true,
+        "detail": "data.constants",
+        "documentation": {}
+    },
+    {
+        "label": "RECIPES",
+        "importPath": "data.constants",
+        "description": "data.constants",
+        "isExtraImport": true,
+        "detail": "data.constants",
+        "documentation": {}
+    },
+    {
+        "label": "HealthyPage",
+        "importPath": "gui.questions.healthy",
+        "description": "gui.questions.healthy",
+        "isExtraImport": true,
+        "detail": "gui.questions.healthy",
+        "documentation": {}
+    },
+    {
+        "label": "HealthyPage",
+        "importPath": "gui.questions.healthy",
+        "description": "gui.questions.healthy",
+        "isExtraImport": true,
+        "detail": "gui.questions.healthy",
+        "documentation": {}
+    },
+    {
+        "label": "ResultsPage",
+        "importPath": "gui.results",
+        "description": "gui.results",
+        "isExtraImport": true,
+        "detail": "gui.results",
+        "documentation": {}
+    },
+    {
+        "label": "ResultsPage",
+        "importPath": "gui.results",
+        "description": "gui.results",
+        "isExtraImport": true,
+        "detail": "gui.results",
+        "documentation": {}
+    },
+    {
+        "label": "EnhancedRecipeRecommender",
+        "importPath": "engine.inferance",
+        "description": "engine.inferance",
+        "isExtraImport": true,
+        "detail": "engine.inferance",
+        "documentation": {}
+    },
+    {
+        "label": "WelcomePage",
+        "importPath": "gui.welcome",
+        "description": "gui.welcome",
+        "isExtraImport": true,
+        "detail": "gui.welcome",
+        "documentation": {}
+    },
+    {
+        "label": "WelcomePage",
+        "importPath": "gui.welcome",
+        "description": "gui.welcome",
+        "isExtraImport": true,
+        "detail": "gui.welcome",
+        "documentation": {}
+    },
+    {
+        "label": "AvoidIngredientsPage",
+        "importPath": "gui.questions.avoid_ingredients",
+        "description": "gui.questions.avoid_ingredients",
+        "isExtraImport": true,
+        "detail": "gui.questions.avoid_ingredients",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryPage",
+        "importPath": "gui.questions.category",
+        "description": "gui.questions.category",
+        "isExtraImport": true,
+        "detail": "gui.questions.category",
+        "documentation": {}
+    },
+    {
+        "label": "CookTimePage",
+        "importPath": "gui.questions.cook_time",
+        "description": "gui.questions.cook_time",
+        "isExtraImport": true,
+        "detail": "gui.questions.cook_time",
+        "documentation": {}
+    },
+    {
+        "label": "CuisinePage",
+        "importPath": "gui.questions.cuisine",
+        "description": "gui.questions.cuisine",
+        "isExtraImport": true,
+        "detail": "gui.questions.cuisine",
+        "documentation": {}
+    },
+    {
+        "label": "DietaryPage",
+        "importPath": "gui.questions.dietary",
+        "description": "gui.questions.dietary",
+        "isExtraImport": true,
+        "detail": "gui.questions.dietary",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentPage",
+        "importPath": "gui.questions.equipment",
+        "description": "gui.questions.equipment",
+        "isExtraImport": true,
+        "detail": "gui.questions.equipment",
+        "documentation": {}
+    },
+    {
+        "label": "IncludeIngredientsPage",
+        "importPath": "gui.questions.include_ingredients",
+        "description": "gui.questions.include_ingredients",
+        "isExtraImport": true,
+        "detail": "gui.questions.include_ingredients",
+        "documentation": {}
+    },
+    {
+        "label": "RecipeRecommenderApp",
+        "importPath": "gui.app",
+        "description": "gui.app",
+        "isExtraImport": true,
+        "detail": "gui.app",
+        "documentation": {}
+    },
+    {
+        "label": "RECIPES",
+        "kind": 5,
+        "importPath": "data.constants",
+        "description": "data.constants",
+        "peekOfCode": "RECIPES = [\n    {\n        \"name\": \"Classic Beef Burger\",\n        \"ingredients\": [\n            \"ground beef\",\n            \"hamburger buns\",\n            \"lettuce\",\n            \"tomato\",\n            \"onion\",\n            \"cheese\",",
+        "detail": "data.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CUISINES",
+        "kind": 5,
+        "importPath": "data.constants",
+        "description": "data.constants",
+        "peekOfCode": "CUISINES = [\n    \"French\",\n    \"Mediterranean\",\n    \"Italian\",\n    \"American\",\n]\n# Available Diet Tags\nDIETARY_TAGS = [\"non-vegan\", \"vegan\", \"vegetarian\", \"gluten-free\", \"high-protein\"]",
+        "detail": "data.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DIETARY_TAGS",
+        "kind": 5,
+        "importPath": "data.constants",
+        "description": "data.constants",
+        "peekOfCode": "DIETARY_TAGS = [\"non-vegan\", \"vegan\", \"vegetarian\", \"gluten-free\", \"high-protein\"]",
+        "detail": "data.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EnhancedRecipeRecommender",
+        "kind": 6,
+        "importPath": "engine.inferance",
+        "description": "engine.inferance",
+        "peekOfCode": "class EnhancedRecipeRecommender:\n    def __init__(self, recipes):\n        self.recipes = recipes\n    def recommend(self, preferences):\n        recommended = []\n        for recipe in self.recipes:\n            score = 0\n            skip = False\n            if not self._passes_base_rules(recipe, preferences):\n                continue",
+        "detail": "engine.inferance",
+        "documentation": {}
+    },
+    {
+        "label": "AvoidIngredientsPage",
+        "kind": 6,
+        "importPath": "gui.questions.avoid_ingredients",
+        "description": "gui.questions.avoid_ingredients",
+        "peekOfCode": "class AvoidIngredientsPage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        container = tk.Frame(self)\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            container,\n            text=\"Any ingredients to avoid? (comma separated)\",\n            font=(\"Arial\", 14),",
+        "detail": "gui.questions.avoid_ingredients",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryPage",
+        "kind": 6,
+        "importPath": "gui.questions.category",
+        "description": "gui.questions.category",
+        "peekOfCode": "class CategoryPage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        container = tk.Frame(self)\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            container,\n            text=\"What type of recipes are you looking for?\",\n            font=(\"Arial\", 14),",
+        "detail": "gui.questions.category",
+        "documentation": {}
+    },
+    {
+        "label": "CookTimePage",
+        "kind": 6,
+        "importPath": "gui.questions.cook_time",
+        "description": "gui.questions.cook_time",
+        "peekOfCode": "class CookTimePage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        container = tk.Frame(self)\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            container,\n            text=\"Maximum cook time in minutes\",\n            font=(\"Arial\", 16),",
+        "detail": "gui.questions.cook_time",
+        "documentation": {}
+    },
+    {
+        "label": "CuisinePage",
+        "kind": 6,
+        "importPath": "gui.questions.cuisine",
+        "description": "gui.questions.cuisine",
+        "peekOfCode": "class CuisinePage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        container = tk.Frame(self)\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            container,\n            text=\"Preferred cuisines (select all that apply)\",\n            font=(\"Arial\", 14),",
+        "detail": "gui.questions.cuisine",
+        "documentation": {}
+    },
+    {
+        "label": "DietaryPage",
+        "kind": 6,
+        "importPath": "gui.questions.dietary",
+        "description": "gui.questions.dietary",
+        "peekOfCode": "class DietaryPage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        container = tk.Frame(self)\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            container,\n            text=\"Any dietary restrictions or preferences?\",\n            font=(\"Arial\", 14),",
+        "detail": "gui.questions.dietary",
+        "documentation": {}
+    },
+    {
+        "label": "EquipmentPage",
+        "kind": 6,
+        "importPath": "gui.questions.equipment",
+        "description": "gui.questions.equipment",
+        "peekOfCode": "class EquipmentPage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        self.btn_txt = \"Get Recommendations\"\n        self.container = tk.Frame(self)\n        self.container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            self.container,\n            text=\"What cooking equipment do you have available? (comma separated)\",",
+        "detail": "gui.questions.equipment",
+        "documentation": {}
+    },
+    {
+        "label": "HealthyPage",
+        "kind": 6,
+        "importPath": "gui.questions.healthy",
+        "description": "gui.questions.healthy",
+        "peekOfCode": "class HealthyPage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        container = tk.Frame(self)\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            container,\n            text=\"Health focus?\",\n            font=(\"Arial\", 14),",
+        "detail": "gui.questions.healthy",
+        "documentation": {}
+    },
+    {
+        "label": "IncludeIngredientsPage",
+        "kind": 6,
+        "importPath": "gui.questions.include_ingredients",
+        "description": "gui.questions.include_ingredients",
+        "peekOfCode": "class IncludeIngredientsPage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        container = tk.Frame(self)\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            container,\n            text=\"Any ingredients you'd like to include? (comma separated)\",\n            font=(\"Arial\", 14),",
+        "detail": "gui.questions.include_ingredients",
+        "documentation": {}
+    },
+    {
+        "label": "RecipeRecommenderApp",
+        "kind": 6,
+        "importPath": "gui.app",
+        "description": "gui.app",
+        "peekOfCode": "class RecipeRecommenderApp:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"Recipe Recommendation System\")\n        self.root.geometry(\"800x600\")\n        self.recommender = EnhancedRecipeRecommender(RECIPES)\n        self.user_prefs = {}\n        self.container = tk.Frame(root)\n        self.container.pack(side=\"top\", fill=\"both\", expand=True)\n        self.container.grid_rowconfigure(0, weight=1)",
+        "detail": "gui.app",
+        "documentation": {}
+    },
+    {
+        "label": "ResultsPage",
+        "kind": 6,
+        "importPath": "gui.results",
+        "description": "gui.results",
+        "peekOfCode": "class ResultsPage(tk.Frame):\n    def __init__(self, parent, controller):\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        self.prefs = {}\n        style = ttk.Style()\n        style.configure(\n            \"Card.TFrame\", background=\"white\", borderwidth=1, relief=\"solid\"\n        )\n        style.configure(",
+        "detail": "gui.results",
+        "documentation": {}
+    },
+    {
+        "label": "WelcomePage",
+        "kind": 6,
+        "importPath": "gui.welcome",
+        "description": "gui.welcome",
+        "peekOfCode": "class WelcomePage(tk.Frame):\n    def __init__(self, parent, controller):\n        from gui.questions.category import CategoryPage\n        tk.Frame.__init__(self, parent)\n        self.controller = controller\n        container = tk.Frame(self)\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        label = tk.Label(\n            container,\n            text=\"Welcome to the Recipe Recommendation System!\",",
+        "detail": "gui.welcome",
+        "documentation": {}
+    }
+]
